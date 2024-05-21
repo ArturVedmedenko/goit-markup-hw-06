@@ -1130,12 +1130,6 @@ body {
   justify-content: center;
 }
 
-.footer-logo-text-media {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 .footer-social-text {
   font-weight: 500;
   font-size: 16px;
